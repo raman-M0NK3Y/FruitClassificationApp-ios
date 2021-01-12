@@ -15,4 +15,4 @@ The 10 different fruits the model classifies are:
 - mango
 - tomato (technically a fruit, google it)
 
-![demo](https://imgflip.com/embed/4tgrca.gif)
+![test1](https://user-images.githubusercontent.com/45298755/104256425-3bf21a00-5449-11eb-866c-6ec242bdc4aa.gif)
